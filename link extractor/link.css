@@ -1,0 +1,18 @@
+.btn{
+    border-radius: 7px;
+
+}
+#demo{
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px 5px;
+    width: 400px;
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.links{
+    margin: 10px;
+    text-align: justify;
+    width: 100%;
+}
